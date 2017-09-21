@@ -9,4 +9,4 @@
 	url = ../../mistio/mist.landing.git
 [submodule "api"]
 	path = api
-	url = ../../mistio/mist.api.git
+	url = ../mist.api.git
